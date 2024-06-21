@@ -21,9 +21,13 @@ Efficient Loading: Optimized performance.
 # Technologies Used:
 # MERN Stack: MongoDB, Express.js, React, Node.js.
 MongoDB: Scalable database solution.
+
 Express.js: Server-side logic handling.
+
 React: Dynamic and responsive UI.
+
 Node.js: Backend development.
+
 Payment Gateway: Integration with Brainly for security.
 
 # Contributing
