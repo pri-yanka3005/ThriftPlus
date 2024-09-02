@@ -92,5 +92,5 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 
 ---
 
-This README should make your project look more presentable and engaging for potential contributors and users!
+
 
