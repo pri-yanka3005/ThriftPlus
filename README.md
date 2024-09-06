@@ -2,6 +2,8 @@
 
 **ThriftPlus** is your ultimate platform for buying and selling second-hand college essentials. Whether decluttering or hunting for deals, ThriftPlus offers an affordable, sustainable solution. 🌟
 
+---
+
 ## 🚀 Overview
 
 ThriftPlus brings affordability to college students by enabling the easy trade of second-hand items. From textbooks to tech gadgets, everything you need is just a click away. 💰
@@ -49,4 +51,3 @@ Check the issues tab for tasks or suggest features. 🌱
 
 Licensed under MIT. See [LICENSE](./LICENSE) for details.
 
----
